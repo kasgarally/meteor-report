@@ -1,1 +1,1 @@
-This project is to test usage of pagedjs for creating prinatble version of database generated reports.
+This project is to test usage of pagedjs for creating printable version of database generated reports.
